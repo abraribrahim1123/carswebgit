@@ -1,0 +1,25 @@
+.navbar {
+    background-color: brown !important;
+}
+
+.nav-link {
+    color: white !important;
+    font-weight: bold !important;
+}
+
+h1 {
+    font-size: 50px;
+    font-style: normal;
+}
+
+h2 {
+    font-size: 50px;
+}
+
+.about {
+    background-color: brown;
+}
+
+.pera {
+    color: white;
+}
